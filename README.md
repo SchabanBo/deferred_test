@@ -1,16 +1,15 @@
 # deferred_test
 
-A new Flutter project.
+Split you Flutter web app into multiple js Files
 
-## Getting Started
+## [CanvasKit with normal build](https://schabanbo.github.io/deferred_test/Results/Canvaskit/NormalBuild/)
 
-This project is a starting point for a Flutter application.
+## [CanvasKit with deferred build](https://schabanbo.github.io/deferred_test/Results/Canvaskit/DeferredBuild/)
 
-A few resources to get you started if this is your first Flutter project:
+## [Html with normal build](https://schabanbo.github.io/deferred_test/Results/Html/NormalBuild/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## [Html with deferred build](https://schabanbo.github.io/deferred_test/Results/Html/DeferredBuild/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Result files
+
+![Result files](https://github.com/SchabanBo/deferred_test/blob/master/Results/Files.png?raw=true))
