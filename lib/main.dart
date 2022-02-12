@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:qlevar_router/qlevar_router.dart';
 
-import 'package:deferred_test/routes/routes1.dart'; // Normal
-// import 'package:deferred_test/routes/routes.dart'; // deferred
+// import 'package:deferred_test/routes/routes1.dart'; // Normal
+import 'package:deferred_test/routes/routes.dart'; // deferred
 
 void main() {
   runApp(const MyApp());
