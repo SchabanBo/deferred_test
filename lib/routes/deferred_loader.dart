@@ -8,6 +8,5 @@ class DefferedLoader extends QMiddleware {
   @override
   Future onEnter() async {
     await loader();
-    if (kDebugMode) print('users loaded');
   }
 }
